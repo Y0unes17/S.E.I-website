@@ -17,7 +17,7 @@ we made a
   </p >
 <p aligne="center">
 
-[![Watch the video](https://j.gifs.com/4QMvMg.gif)](https://youtu.be/Eft05DOvvEY)
+[![Watch the video](https://j.gifs.com/2xLP2P.gif)](https://youtu.be/0hJc9hSWYzY)
 
 </p>
 <hr>
