@@ -16,8 +16,10 @@ we made a
 <ul> 
   </p >
 <p aligne="center">
+<img src="https://github.com/Y0unes17/S.E.I-website/blob/main/img/Picture1.png?raw=true" width=720>
+  <img src="https://github.com/Y0unes17/S.E.I-website/blob/main/img/Picture2.png?raw=true" width=720>
+  <img src="https://github.com/Y0unes17/S.E.I-website/blob/main/img/Picture3.png?raw=true" width=720>
 
-[![Watch the video](https://j.gifs.com/2xLP2P.gif)](https://youtu.be/0hJc9hSWYzY)
 
 </p>
 <hr>
